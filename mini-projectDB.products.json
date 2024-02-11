@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "65c3c8e9477f64a41f3fcd06"
+  },
+  "ProductName": "Wireless Mouse",
+  "Price": "29.99$",
+  "ProductId": "1",
+  "Description": "A sleek and ergonomic wireless mouse for efficient navigation."
+},
+{
+  "_id": {
+    "$oid": "65c3c8e9477f64a41f3fcd07"
+  },
+  "ProductName": "Mechanical Keyboard",
+  "Price": "99.99$",
+  "ProductId": "2",
+  "Description": "A durable mechanical keyboard with customizable RGB lighting."
+},
+{
+  "_id": {
+    "$oid": "65c3c8e9477f64a41f3fcd08"
+  },
+  "ProductName": "Hardcover Book",
+  "Price": "14.99$",
+  "ProductId": "3",
+  "Description": "A captivating novel bound in a sturdy hardcover."
+},
+{
+  "_id": {
+    "$oid": "65c3c8e9477f64a41f3fcd09"
+  },
+  "ProductName": "Noise-Canceling Headphones",
+  "Price": "149.99$",
+  "ProductId": "4",
+  "Description": "Premium headphones that block out ambient noise for immersive listening."
+},
+{
+  "_id": {
+    "$oid": "65c3c8e9477f64a41f3fcd0a"
+  },
+  "ProductName": "Mechanical Pencil Set",
+  "Price": "9.99$",
+  "ProductId": "5",
+  "Description": "A set of high-quality mechanical pencils for precise writing and drawing."
+},
+{
+  "_id": {
+    "$oid": "65c3c8e9477f64a41f3fcd0b"
+  },
+  "ProductName": "Gaming Mouse",
+  "Price": "49.99$",
+  "ProductId": "6",
+  "Description": "A responsive gaming mouse with programmable buttons for enhanced gameplay."
+},
+{
+  "_id": {
+    "$oid": "65c3c8e9477f64a41f3fcd0c"
+  },
+  "ProductName": "Leather-Bound Journal",
+  "Price": "19.99$",
+  "ProductId": "7",
+  "Description": "A luxurious leather-bound journal for recording thoughts and ideas."
+}]
